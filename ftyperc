@@ -1,0 +1,6 @@
+ JSON
+*.json
+-autoindent
+-syntax json
+-smarthome
+-smartbacks
